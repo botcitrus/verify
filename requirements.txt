@@ -1,0 +1,7 @@
+nextcord
+cryptography
+websockets
+colorama
+requests
+urllib3
+discord==1.7.3
